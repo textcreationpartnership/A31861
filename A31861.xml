@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties declaration sent to the speaker of the House of Peeres, pro tempore, to be communicated to both houses of Parliament, and His Majesties subjects shewing the causes of His Majesties retirement from Hampton Court : dated 11 November, 1647.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31861</idno>
+            <idno type="STC">Wing C2219</idno>
+            <idno type="STC">ESTC R21016</idno>
+            <idno type="EEBO-CITATION">12259605</idno>
+            <idno type="OCLC">ocm 12259605</idno>
+            <idno type="VID">57808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties declaration sent to the speaker of the House of Peeres, pro tempore, to be communicated to both houses of Parliament, and His Majesties subjects shewing the causes of His Majesties retirement from Hampton Court : dated 11 November, 1647.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Giles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By His Majesties especiall command"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57808:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>
+               <hi>The Kings Majeſties</hi> DECLARATION ſent to the Speaker of the Houſe of Peeres, <hi>Protempore,</hi> To be communicated to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and His Majeſties Subjects.</p>
+            <p>Shewing the cauſes of His Majeſties Retirement from <hi>Hampton Court.</hi>
+            </p>
+            <p>Dated 11. <hi>November</hi> 1647.</p>
+            <p>By His Majeſties eſpeciall Command.</p>
+            <p>London, Printed for <hi>Iohn Giles,</hi> to prevent falſe Copies. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:57808:2"/>
+            <!-- PDF PAGE 44 -->
+            <opener>
+               <dateline>Hampton Court, <date>the 11. of <hi>November</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Iberty being that, which in all times hath beene, but eſpecially now is, the com<g ref="char:EOLhyphen"/>mon theame and deſire of all men. Common reaſon ſhewes that Kings leſſe then any ſhould en<g ref="char:EOLhyphen"/>dure Captivity, and yet I call God and the world to witneſſe, with what patience I have endured a tedious re<g ref="char:EOLhyphen"/>ſtraint; which ſo long as I had any hopes, that this part of my ſufferings might conduce to the Peace of my Kingdomes, or the hindring of more effuſion of blood, I did willingly un<g ref="char:EOLhyphen"/>dergoe. But now, finding, by too cer<g ref="char:EOLhyphen"/>taine proofes, that this my continued Patience, would not onely turne to my Perſonall ruine, but likewiſe be
+<pb n="4" facs="tcp:57808:3"/>
+               <!-- PDF PAGE 45 -->of much more prejudice, then furthe<g ref="char:EOLhyphen"/>rance to the Publique good, I thought I was bound, as well by naturall, as po<g ref="char:EOLhyphen"/>liticall obligations to ſeeke ſafety, by retiring my ſelfe for ſome time, from the publique view both of my friends and enemies; and I appeale to all in<g ref="char:EOLhyphen"/>different men to judge, if I have not juſt cauſe to free my ſelfe from the hands of thoſe, who change their Prin<g ref="char:EOLhyphen"/>ciples with their Condition, and who are not aſhamed openly to intend the deſtruction of the Nobility, by taking away their Negative Voice, and with whom the Levellers Doctrine is rather countenanced then puniſhed. And as for their intentions to my Perſon, their changing and putting more ſtrict Guards upon me, with the diſchar<g ref="char:EOLhyphen"/>ging moſt of thoſe Servants of mine,
+<pb n="5" facs="tcp:57808:4"/>
+               <!-- PDF PAGE 46 -->whom formerly they willingly admit<g ref="char:EOLhyphen"/>ted to waite upon me, doth ſufficient<g ref="char:EOLhyphen"/>ly declare.</p>
+            <p>Nor would I have this my retire<g ref="char:EOLhyphen"/>ment miſinterpreted, for I ſhall ear<g ref="char:EOLhyphen"/>neſtly, and unceſſantly endeavour the ſettling of a ſafe and well grounded Peace, where ever I am, or ſhallbe; and that (as much as may be) without the effuſion of more Chriſtian blood; for which, how many times have I deſired, and preſſed to be heard, and yet no eare given to u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? And can any reaſonable man thinke, that (according to the ordinary courſe of af<g ref="char:EOLhyphen"/>faires) there can be a ſettled Peace without it? Or that God will bleſſe thoſe who refuſe to heare their owne King? Surely no: Nay, I muſt further adde, that (beſides what concernes my ſelfe) unleſſe all other chiefe intereſts have not only a hearing, but likewiſe juſt ſatisfacti<g ref="char:EOLhyphen"/>on given unto them (to wit the Presbyterians,
+<pb n="6" facs="tcp:57808:5"/>
+               <!-- PDF PAGE 47 -->Independents Army, thoſe who have adhered to me, and even the Scots) I ſay there cannot, (I ſpeake not of Miracles, it being in my opi<g ref="char:EOLhyphen"/>nion a ſinfull preſumption in ſuch caſes to ex<g ref="char:EOLhyphen"/>pect or truſt to them) be a ſafe or laſting Peace: Now as I cannot deny, but my Perſonall ſecu<g ref="char:EOLhyphen"/>rity is the urgent cauſe of this my retirement; ſo I take God to witneſſe, that the Publique Peace is no leſſe before my eyes, and I can finde no better way to expreſſe this my pro<g ref="char:EOLhyphen"/>fesſion (I know not what a wiſer man may doe) then by deſiring and urging that all chiefe intereſts may be heard, to the end each may have a juſt ſatisfaction; as for example the Army (for the reſt though neceſſary, yet I ſup<g ref="char:EOLhyphen"/>poſe are not difficult to co<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tent) ought (in my judgement) to enjoy the liberty of their Con<g ref="char:EOLhyphen"/>ſciences, have an Act of Oblivion or Indemp<g ref="char:EOLhyphen"/>nity (which ſhould extend to all the reſt of my Subjects;) And that all their Arrears ſhould be ſpeedily, and duely payd; which I will under<g ref="char:EOLhyphen"/>take to doe, ſo I may be heard, and that I be not
+<pb n="7" facs="tcp:57808:6"/>
+               <!-- PDF PAGE 48 -->hindered from uſing ſuch lawfull, and honeſt meanes as I ſhall chuſe.</p>
+            <p>To conclude, let me be heard with free<g ref="char:EOLhyphen"/>dome, honour and ſafety, and I ſhall inſtantly breake through this cloud of retirement, and ſhew my ſelfe really to be <hi>Pater Patriae.</hi>
+            </p>
+            <closer>
+               <signed>CHARLES REX.</signed>
+            </closer>
+            <postscript>
+               <p>For the Speaker of the Lords <hi>pro Tempore,</hi> to be Communicated unto the Lords and Commons in the Parliament of <hi>England,</hi> at Weſtminſter, and the Commisſioners of the Parliament of <hi>Scotland,</hi> and to all my other Subjects, of what degree, condi<g ref="char:EOLhyphen"/>tion, or calling, whatſoever.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
